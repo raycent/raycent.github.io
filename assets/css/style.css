@@ -8,7 +8,7 @@
     5. About
     6. Resume
     7. Skill
-    8. Work
+    8. Project
     9. Facts
     10. Blog
     11. Hire
@@ -990,8 +990,8 @@ Resume Timeline
 }
 
 
-/* === Work Section === */
-.works-section {
+/* === Project Section === */
+.projects-section {
     background-color: #f7f7f7;
 }
 .portfolio-item {
